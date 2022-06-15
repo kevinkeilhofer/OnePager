@@ -1,4 +1,4 @@
-# OnePager - More coming soon! 🚀
+# onepage - More coming soon! 🚀
 
 Simple one pager programmed with HTML. Use it for your projects.
 
